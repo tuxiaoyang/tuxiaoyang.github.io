@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Xuyang Wu</title>
+    <link>https://tuxiaoyang.github.io/tags/events/</link>
+      <atom:link href="https://tuxiaoyang.github.io/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tuxiaoyang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Events</title>
+      <link>https://tuxiaoyang.github.io/tags/events/</link>
+    </image>
+    
+    <item>
+      <title>Enrolled at Xi’an Jiaotong University.</title>
+      <link>https://tuxiaoyang.github.io/post/news2/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tuxiaoyang.github.io/post/news2/</guid>
+      <description>&lt;p&gt;With great anticipation, I have officially enrolled in the School of Mathematics and Statistics at Xi’an Jiaotong University to pursue a Master’s degree in Applied Statistics. Under the supervision of Professor Jia Liu, my research will focus on trajectory optimization. I look forward to the next three years of academic growth, research exploration, and personal development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graduated with a Bachelor&#39;s degree.</title>
+      <link>https://tuxiaoyang.github.io/post/news1/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://tuxiaoyang.github.io/post/news1/</guid>
+      <description>&lt;p&gt;I graduated today from the School of Mathematical Sciences at the University of Electronic Science and Technology of China, with a Bachelor of Science in Data Science and Big Data Technology. I am deeply grateful for the excellent education I received, the insightful professors I learned from, and the brilliant friends I met along the way. Though the mountains are high and the road long — we will meet again.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

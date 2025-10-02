@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Queue System | Xuyang Wu</title>
+    <link>https://tuxiaoyang.github.io/tags/multi-queue-system/</link>
+      <atom:link href="https://tuxiaoyang.github.io/tags/multi-queue-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Queue System</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tuxiaoyang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Multi-Queue System</title>
+      <link>https://tuxiaoyang.github.io/tags/multi-queue-system/</link>
+    </image>
+    
+    <item>
+      <title>Implementation of the Event Scheduling Method in Multi-Queue Systems</title>
+      <link>https://tuxiaoyang.github.io/project/project1/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://tuxiaoyang.github.io/project/project1/</guid>
+      <description>&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;locationmode.png&#34; width=&#34;50%&#34; alt=&#34;locationmode&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    Location Information Model
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;position_model.png&#34; width=&#34;40%&#34; alt=&#34;position_model&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+     Path Information Model
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;simulation.png&#34; width=&#34;50%&#34; alt=&#34;simulation&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    Relationship between Arrival Events and System Utilization
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
