@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chance Constraint | Xuyang Wu</title>
+    <link>https://tuxiaoyang.github.io/tags/chance-constraint/</link>
+      <atom:link href="https://tuxiaoyang.github.io/tags/chance-constraint/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chance Constraint</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tuxiaoyang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Chance Constraint</title>
+      <link>https://tuxiaoyang.github.io/tags/chance-constraint/</link>
+    </image>
+    
+    <item>
+      <title>Chance-Constrained Trajectory Optimization for UAVs with Randomly Moving Obstacles</title>
+      <link>https://tuxiaoyang.github.io/publication/paper2/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tuxiaoyang.github.io/publication/paper2/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Viedo&lt;/em&gt; button above to view the flight trajectory in the numerical simulation results.&lt;/span&gt;
+&lt;/div&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;fig2.png&#34; width=&#34;80%&#34; alt=&#34;Trajectory fig2&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    Coordinate system of UAV trajectory optimization
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;traj_obs1234.png&#34; width=&#34;70%&#34; alt=&#34;traj_obs1234&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    UAV trajectories with different number of obstacles
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;vio_obs4.png&#34; width=&#34;60%&#34; alt=&#34;vio_obs4&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    Violation percentage in different time intervals with four obstacles
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two-sided Chance-constrained Penetration Trajectory Optimization for Unmanned Combat Aerial Vehicle</title>
+      <link>https://tuxiaoyang.github.io/publication/paper1/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tuxiaoyang.github.io/publication/paper1/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Viedo&lt;/em&gt; button above to view the flight trajectory in the numerical simulation results.&lt;/span&gt;
+&lt;/div&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;model.png&#34; width=&#34;70%&#34; alt=&#34;model&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    Space rectangular coordinate system based on target area
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;penetration_scenario.png&#34; width=&#34;60%&#34; alt=&#34;penetration_scenario&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    Relative position of UCAV and interceptor
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;pic1.png&#34; width=&#34;50%&#34; alt=&#34;pic1&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    Iterative trajectories of UCAV and interceptor trajectories
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;vio_rate_compare.png&#34; width=&#34;80%&#34; alt=&#34;vio_rate_compare&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 8px;&#34;&gt;
+    The violation probabilities at different time intervals of the control parameters with or without chance constraints in three cases
+  &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

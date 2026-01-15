@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Xuyang Wu</title>
+    <link>https://tuxiaoyang.github.io/tags/publications/</link>
+      <atom:link href="https://tuxiaoyang.github.io/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tuxiaoyang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>https://tuxiaoyang.github.io/tags/publications/</link>
+    </image>
+    
+    <item>
+      <title>🎉 My second paper has finally been accepted!</title>
+      <link>https://tuxiaoyang.github.io/post/news5/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tuxiaoyang.github.io/post/news5/</guid>
+      <description>&lt;p&gt;Excited to share that my second paper, &amp;ldquo;Chance-Constrained Trajectory Optimization for UAVs with Randomly Moving Obstacles&amp;rdquo;, has been accepted by &lt;em&gt;IEEE Transactions on Aerospace and Electronic Systems&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Submitted on &lt;strong&gt;Feb 21, 2025&lt;/strong&gt; to &lt;em&gt;IEEE Transactions on Aerospace and Electronic Systems&lt;/em&gt;.&lt;br&gt;
+Received &lt;strong&gt;major revision&lt;/strong&gt; on &lt;strong&gt;Jun 10&lt;/strong&gt;, and resubmitted on &lt;strong&gt;Jul 9&lt;/strong&gt;, and accepted on &lt;strong&gt;Sep 23&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://doi.org/10.1109/TAES.2025.3615164&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the article on IEEE Xplore&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 My first paper has finally been accepted!</title>
+      <link>https://tuxiaoyang.github.io/post/news4/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://tuxiaoyang.github.io/post/news4/</guid>
+      <description>&lt;p&gt;Excited to share that my first paper, &amp;ldquo;Two-sided Chance-constrained Penetration Trajectory Optimization for Unmanned Combat Aerial Vehicle&amp;rdquo;, has been accepted by the AIAA&amp;rsquo;s &lt;em&gt;Journal of Aircraft&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Submitted on &lt;strong&gt;Jan 23, 2025&lt;/strong&gt; to &lt;em&gt;Journal of Aircraft&lt;/em&gt;.&lt;br&gt;
+Received &lt;strong&gt;Major Revision&lt;/strong&gt; on &lt;strong&gt;Jun 5&lt;/strong&gt;, resubmitted on &lt;strong&gt;Jun 19&lt;/strong&gt;, and accepted on &lt;strong&gt;Jun 25&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://doi.org/10.2514/1.C038395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the article on AIAA ARC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
